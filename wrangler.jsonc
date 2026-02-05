@@ -1,5 +1,5 @@
 {
-  "name": "universal-react-app",
+  "name": "react-starter-template-vite",
   "compatibility_date": "2026-02-05",
   "assets": {
     "directory": "./dist"
